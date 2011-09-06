@@ -1,2 +1,5 @@
 Hello Git world
 Line 2
+conflicting line in foo
+conflicting line in foo in master
+conflicting line 2 in foo in master
